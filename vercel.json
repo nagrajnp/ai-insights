@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/", "destination": "/ai-sales-insight-panel.html" }
-  ],
-  "cleanUrls": true
-}
